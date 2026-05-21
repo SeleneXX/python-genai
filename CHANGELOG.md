@@ -1,5 +1,18 @@
 # Changelog
 
+## [2.6.0](https://github.com/googleapis/python-genai/compare/v2.5.0...v2.6.0) (2026-05-21)
+
+
+### Features
+
+* Add budget_exceeded status ([15443c0](https://github.com/googleapis/python-genai/commit/15443c0211446c41a9ab2705dd2282d324581eb7))
+* Add gemini-3.5-flash ([15443c0](https://github.com/googleapis/python-genai/commit/15443c0211446c41a9ab2705dd2282d324581eb7))
+
+
+### Documentation
+
+* Replace `vertexai` with `enterprise` in Client instantiation ([c1c6df7](https://github.com/googleapis/python-genai/commit/c1c6df74e888fd25061ad4364b05977a857b90a3))
+
 ## [2.5.0](https://github.com/googleapis/python-genai/compare/v2.4.0...v2.5.0) (2026-05-20)
 
 
